@@ -1,1 +1,1 @@
-# Cryptos
+Public cryptocoin information from CoinBase
